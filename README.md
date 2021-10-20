@@ -12,7 +12,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arushi--sharma/) 
-- ⚡ Fun fact: A huge The Office American Sitcom fan
+- ⚡ Fun fact: A huge fan of The Office American Sitcom
 -->
 
 <h1 align="center">Hi 👋 I'm Arushi</h1>
@@ -30,7 +30,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 
 - 📄 Know about my experiences [Resume](https://github.com/arushi-08/arushi-08.github.io/blob/main/cv/cv.pdf)
 
-- ⚡ Fun fact **A huge The Office American Sitcom fan**
+- ⚡ Fun fact **A huge fan of The Office American Sitcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
