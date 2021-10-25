@@ -28,7 +28,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/arushi--sharma/)**
 
-- 📄 Know about my experiences [Resume](https://github.com/arushi-08/arushi-08.github.io/blob/main/cv/cv.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/arushi-08/arushi-08.github.io/blob/main/resume/resume.pdf)
 
 - ⚡ Fun fact **A huge fan of The Office American Sitcom**
 
