@@ -28,7 +28,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/arushi--sharma/)**
 
-- 📄 Know all about me on my [Site](https://charming-rabbit-c1f83.netlify.app/)
+<!-- - 📄 Know all about me on my [Site](https://charming-rabbit-c1f83.netlify.app/) -->
 
 - ⚡ Fun fact **A huge fan of The Office American Sitcom**
 
