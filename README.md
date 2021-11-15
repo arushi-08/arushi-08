@@ -12,7 +12,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arushi--sharma/) 
-- ⚡ Fun fact: I have organized the [TEDxDTU](https://www.ted.com/tedx/events/33217) at Delhi Technological University
+- ⚡ Fun fact:  **A huge fan of The Office American Sitcom**
 -->
 
 <h1 align="center">Hi 👋 I'm Arushi</h1>
@@ -30,7 +30,7 @@ I'm a Software Developer + Associate Data Scientist who is passionate about crea
 
 <!-- - 📄 Know all about me on my [Site](https://charming-rabbit-c1f83.netlify.app/) -->
 
-- ⚡ Fun fact **A huge fan of The Office American Sitcom**
+- ⚡ Fun fact: I have organized the **[TEDxDTU](https://www.ted.com/tedx/events/33217)** at Delhi Technological University
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
