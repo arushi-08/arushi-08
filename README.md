@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Arushi 👋 👩🏾‍💻
 
-I'm a Software Developer + Associate Data Scientist who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include Natural Language Processing, Machine Learning and Deep Learning.
+I'm a Software Developer + Data Scientist who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include Natural Language Processing, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Open Source Contribution 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Anything!
