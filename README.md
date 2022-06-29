@@ -16,7 +16,7 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 -->
 
 <h1 align="center">Hi 👋 I'm Arushi</h1>
-<h3 align="center">I'm a Software Developer + Associate Data Scientist who is passionate about creating technology to elevate people, and building community.</h3>
+<h3 align="center">I'm a Software Developer + Data Scientist who is passionate about creating technology to elevate people, and building community.</h3>
 
 - 👩🏻‍💻 Some technologies I enjoy working with include **Natural Language Processing, Machine and Deep Learning, FlaskAPIs and Python Multiprocessing with Celery**
 
