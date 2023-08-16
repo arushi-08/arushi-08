@@ -18,7 +18,7 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 <h1 align="center">Hi 👋 I'm Arushi</h1>
 <h3 align="center">I'm passionate about leveraging technology, particularly in NLP, to solve challenging problems.</h3>
 
-- 👩🏻‍💻 Some technologies I enjoy working with include **Natural Language Processing, Machine and Deep Learning and Python Multiprocessing with Celery**
+- 👩🏻‍💻 Some technologies I enjoy working with include **Natural Language Processing, Machine and Deep Learning and Python Multiprocessing**
 
 - 🙌 I’m looking to collaborate on **Open Source Projects**
 
