@@ -40,7 +40,7 @@ class Arushi:
 class Attributes(Arushi):
     @property
     def contact(self) -> Tuple[str, str]:
-        linkedin  = "https://www.linkedin.com/in/arushi--sharma/"
+        linkedin  = "in/arushi--sharma/"
         email    = "arushi.sharma@pitt.edu"
 	    
 	    return linkedin, email
