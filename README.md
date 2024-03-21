@@ -29,7 +29,42 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 
 -->
 
+<h1 align="center">Hi 👋 I'm Arushi</h1>
 
+```
+from typing import Tuple, List, Dict
+
+class Arushi:
+    pass
+
+class Attributes(Arushi):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        linkedin  = "https://www.linkedin.com/in/arushi--sharma/"
+        email    = "arushi.sharma@pitt.edu"
+	    
+	    return linkedin, email
+
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['hindi', 'english']
+        interests   = ['ai', 'design', 'salsa', 'ping pong']
+
+        return langs, interests
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+        langs = {
+            'expert'      : ['python'],
+            'intermediate': ['sql'],
+            'learning'    : ['java']
+        }
+        specialities  = ['nlp/ai research', 'data science', 'data engineering']
+        ide           = ['vscode', 'pycharm']
+
+	return langs, specialities, ide
+ 
+```
 
 
 <!-- - 📄 Know all about me on my [Site](https://charming-rabbit-c1f83.netlify.app/) -->
