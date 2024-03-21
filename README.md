@@ -46,7 +46,7 @@ class Attributes(Arushi):
 	return linkedin, email
 
     @property
-    def life(self) -> Tuple[List[str], int]:
+    def life(self) -> Tuple[List[str], List[str]]:
         langs = ['hindi', 'english']
         interests   = ['ai', 'design', 'salsa', 'ping pong']
 
