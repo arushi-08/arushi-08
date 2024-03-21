@@ -39,7 +39,7 @@ class Arushi:
 
 class Attributes(Arushi):
     @property
-    def contact(self) -> Tuple[str, str, str]:
+    def contact(self) -> Tuple[str, str]:
         linkedin  = "https://www.linkedin.com/in/arushi--sharma/"
         email    = "arushi.sharma@pitt.edu"
 	    
@@ -53,7 +53,7 @@ class Attributes(Arushi):
         return langs, interests
 	
     @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
         langs = {
             'expert'      : ['python'],
             'intermediate': ['sql'],
