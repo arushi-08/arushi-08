@@ -29,9 +29,9 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 
 -->
 
-<h1 align="center">Hi 👋 I'm Arushi</h1>
+<h1 align="center">Hi there! 👋 </h1>
 
-```
+```python
 from typing import Tuple, List, Dict
 
 class Arushi:
