@@ -43,7 +43,7 @@ class Attributes(Arushi):
         linkedin  = "in/arushi--sharma/"
         email    = "arushi.sharma@pitt.edu"
 	    
-	    return linkedin, email
+	return linkedin, email
 
     @property
     def life(self) -> Tuple[List[str], int]:
