@@ -53,16 +53,16 @@ class Attributes(Arushi):
         return langs, interests
 	
     @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
-        langs = {
-            'expert'      : ['python'],
-            'intermediate': ['sql'],
-            'learning'    : ['java']
-        }
-        specialities  = ['nlp/ai research', 'data science', 'data engineering']
-        ide           = ['vscode', 'pycharm']
-
-	return langs, specialities, ide
+    def coding(self) -> Dict[List[str], List[str], List[str], List[str], List[str]]:
+        skills = {
+            'expert'      : ['python', 'sql', 'java'],
+            'specialities': ['nlp/ai research', 'data science', 'data engineering']
+	    'ml_tools'    : ['huggingface', 'pytorch', 'keras', 'pykeen', 'scikit-learn', 'pandas', 'numpy']
+	    'data_tools'  : ['docker', 'openshift', 'jenkins ci/cd', 'git', 'bigquery', 'mongodb', 'redis', 'aws s3', 'gcp', 'airflow']
+            'ide'    	  : ['vscode', 'pycharm']
+        } 
+	
+	return skills
  
 ```
 
