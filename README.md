@@ -29,7 +29,7 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 
 -->
 
-<h1 align="center">Hi there! 👋 </h1>
+<h1 align="center">Hi there! Getting to know me👋 </h1>
 
 ```python
 from typing import Tuple, List, Dict
