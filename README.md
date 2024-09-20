@@ -37,7 +37,7 @@ from typing import Tuple, List, Dict
 class Arushi:
     pass
 
-class Attributes(Arushi):
+class Arushi(Attributes):
     @property
     def contact(self) -> Tuple[str, str]:
         linkedin  = "in/arushi--sharma/"
