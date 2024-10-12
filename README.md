@@ -31,7 +31,7 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 
 -->
 
-<h1 align="center">Hi there! Getting to know me👋 </h1>
+<h1 align="center">Hi there! 👋 </h1>
 
 [![An image of @arushi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushi08)](https://holopin.io/@arushi08)
 
