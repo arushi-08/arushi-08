@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm Arushi 👋 👩🏾‍💻
 
+[![An image of @arushi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushi08)](https://holopin.io/@arushi08)
+
 I'm a Software Developer + Data Scientist who is passionate about creating technology to solve challenging problems. Some technologies I enjoy working with include Natural Language Processing, Machine Learning and Deep Learning.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arushi--sharma/) 
@@ -30,6 +32,8 @@ I'm a Software Developer + Data Scientist who is passionate about creating techn
 -->
 
 <h1 align="center">Hi there! Getting to know me👋 </h1>
+
+[![An image of @arushi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arushi08)](https://holopin.io/@arushi08)
 
 ```python
 from typing import Tuple, List, Dict
