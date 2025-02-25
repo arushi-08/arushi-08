@@ -52,7 +52,7 @@ class Attributes(Arushi):
     @property
     def life(self) -> Tuple[List[str], List[str]]:
         langs = ['hindi', 'english']
-        interests   = ['ai', 'design', 'salsa', 'ping pong']
+        interests   = ['ai', 'design', 'backend software engineering', 'ping pong']
 
         return langs, interests
 	
@@ -62,7 +62,8 @@ class Attributes(Arushi):
             'expert'      : ['python', 'sql', 'java'],
             'specialities': ['nlp/ai research', 'data science', 'data engineering']
 	    'ml_tools'    : ['huggingface', 'pytorch', 'keras', 'pykeen', 'scikit-learn', 'pandas', 'numpy']
-	    'data_tools'  : ['docker', 'openshift', 'jenkins ci/cd', 'git', 'bigquery', 'mongodb', 'redis', 'aws s3', 'gcp', 'airflow']
+	    'deployment_tools' : ['docker', 'openshift', 'jenkins', 'github actions']
+	    'data_tools'  : ['bigquery', 'mongodb', 'redis', 'aws s3', 'gcp', 'airflow']
             'ide'    	  : ['vscode', 'pycharm']
         } 
 	
