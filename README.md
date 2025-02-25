@@ -60,7 +60,7 @@ class Attributes(Arushi):
     def coding(self) -> Dict[List[str], List[str], List[str], List[str], List[str]]:
         skills = {
             'expert'      : ['python', 'sql', 'java'],
-            'specialities': ['nlp/ai research', 'data science', 'data engineering']
+            'specialities': ['backend software engineering', 'nlp/ai research', 'data science']
 	    'ml_tools'    : ['huggingface', 'pytorch', 'keras', 'pykeen', 'scikit-learn', 'pandas', 'numpy']
 	    'deployment_tools' : ['docker', 'openshift', 'jenkins', 'github actions']
 	    'data_tools'  : ['bigquery', 'mongodb', 'redis', 'aws s3', 'gcp', 'airflow']
