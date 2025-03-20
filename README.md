@@ -59,7 +59,7 @@ class Attributes(Arushi):
     @property
     def coding(self) -> Dict[List[str], List[str], List[str], List[str], List[str]]:
         skills = {
-            'expert'      : ['python', 'sql', 'java'],
+            'expert'      : ['python', 'sql', 'java', 'javascript'],
             'specialities': ['backend software engineering', 'nlp/ai research', 'data science']
 	    'ml_tools'    : ['huggingface', 'pytorch', 'keras', 'pykeen', 'scikit-learn', 'pandas', 'numpy']
 	    'deployment_tools' : ['docker', 'openshift', 'jenkins', 'github actions']
